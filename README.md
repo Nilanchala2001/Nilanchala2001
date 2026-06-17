@@ -15,7 +15,7 @@ Passionate about building scalable backend systems using Java, Spring Boot, MySQ
 - 💻 Strong in Java, JDBC, Servlets, JSP, Spring Boot
 - 🗄️ Database: MySQL, MongoDB
 - 🚀 Interested in Backend Development
-- 📚 MCA Graduate
+- 📚 Graduate
 - ⚡ Goal: Become a Professional Java Backend Engineer
 - ⚡ Building scalable backend applications and DevOps pipelines
 
