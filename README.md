@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Nilanchala Nahak</h1>
+
+<h3 align="center">
+🚀 Java Backend Developer | Spring Boot Developer | REST API Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+Applications;REST+API+Developer;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Nilanchala2001">
+<img src="https://komarev.com/ghpvc/?username=Nilanchala2001&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
+</p>
 <table>
 <tr>
 <td width="40%">
