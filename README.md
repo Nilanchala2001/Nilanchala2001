@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Nilanchala Nahak</h1>
+<h2>👨‍💻 About Me</h2>
 
-<h3 align="center">
-Java Backend Developer | Spring Boot Developer 
-</h3>
+<table>
+<tr>
+<td width="40%">
 
-<p align="center">
-Passionate about building scalable backend systems using Java, Spring Boot, MySQL and REST APIs.
-</p>
+<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="300"/>
 
-## 👨‍💻 About Me
+</td>
 
-- 🔭 Currently working on Java Backend Projects
-- 🌱 Learning Spring Boot Microservices
-- 💻 Strong in Java, JDBC, Servlets, JSP, Spring Boot
-- 🗄️ Database: MySQL, MongoDB
-- 🚀 Interested in Backend Development
-- 📚 Graduate
-- ⚡ Goal: Become a Professional Java Backend Engineer
-- ⚡ Building scalable backend applications and DevOps pipelines
+<td width="60%">
+
+<ul>
+<li>🔭 Currently working on Java Backend Projects</li>
+<li>🌱 Learning Spring Boot Microservices</li>
+<li>💻 Strong in Java, JDBC, Servlets, JSP, Spring Boot</li>
+<li>🗄️ Database: MySQL, MongoDB</li>
+<li>🚀 Interested in Backend Development</li>
+<li>🎓 MCA Graduate</li>
+<li>⚡ Goal: Become a Professional Java Backend Engineer</li>
+<li>⚙️ Building scalable backend applications and DevOps pipelines</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
   ## 🛠 Tech Stack
 
