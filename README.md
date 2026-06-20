@@ -1,25 +1,20 @@
-<h2>👨‍💻 About Me</h2>
-
 <table>
 <tr>
 <td width="40%">
-
-<img src="https://cdn-icons-png.flaticon.com/512/6062/6062646.png" width="300"/>
-
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3M4MjV3eG9xZnlyb3M1dWQzM3VhMnA0d3JydW1nZ2g3b2N3ZmM3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="320"/>
 </td>
 
-<td width="60%">
+<td width="65%">
 
-<ul>
-<li>🔭 Currently working on Java Backend Projects</li>
-<li>🌱 Learning Spring Boot Microservices</li>
-<li>💻 Strong in Java, JDBC, Servlets, JSP, Spring Boot</li>
-<li>🗄️ Database: MySQL, MongoDB</li>
-<li>🚀 Interested in Backend Development</li>
-<li>🎓 MCA Graduate</li>
-<li>⚡ Goal: Become a Professional Java Backend Engineer</li>
-<li>⚙️ Building scalable backend applications and DevOps pipelines</li>
-</ul>
+<h3>Java Backend Developer | Spring Boot Developer</h3>
+
+- 🔭 Currently working on Java Backend Projects
+- 🌱 Learning Spring Boot Microservices
+- 💻 Skilled in Java, JDBC, Servlets, JSP, Spring Boot
+- 🗄️ MySQL & MongoDB
+- 🚀 Passionate about Backend Development
+- ⚡ Exploring DevOps & Cloud Technologies
+- 🎯 Goal: Become a Software Engineer at a Product-Based Company
 
 </td>
 </tr>
